@@ -2,7 +2,7 @@ String month = "marts";
 
 switch (month) {
   case "january":
-    println("31");
+    println("300");
     break;
   case "feburary":
     println("28");
